@@ -1,0 +1,5 @@
+streamlit
+nixtlats
+pandas
+plotly
+xlsxwriter
