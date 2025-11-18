@@ -1,5 +1,5 @@
 streamlit
-nixtlats
+nixtla
 pandas
 plotly
 xlsxwriter
