@@ -7,7 +7,7 @@ Try the deployed version of the app here: **[https://music-stream-forecast-ukrwo
 
 ## 📌 Project Context
 
-The company **Dibsteur** launched an artificial intelligence development seminar with the goal of building an AI-based solution capable of detecting **promising music artists**. The company wants to sign artists who:
+A leading digital music distribution platform (name withheld for privacy) launched an artificial intelligence development seminar with the goal of building an AI-based solution capable of detecting **promising music artists**. The company wants to sign artists who:
 
 * Will generate **enough future streams** to be profitable,
 * But **not too many**, so they do not attract major labels and investors.
